@@ -1,0 +1,4 @@
+# Local settings for arcade-sinden-lightgun.sh script
+
+#WANTED_ORDER=("0xc548" "0xcebd")
+#CMD_EVENTINFO="timeout 0.1 evtest"
