@@ -40,3 +40,4 @@ fi
 ```
 /userdata/bin/arcade-sinden-lightgun.sh refresh && exit $?
 ```
+- execute _batocera_save_overlay_ system script to update batocera overlay layer and persist the changes on /usr/bin scripts.
