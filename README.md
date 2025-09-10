@@ -1,7 +1,7 @@
 # arcade-sinden-lightgun-order-fix
-This is a method to fix sinden lightgun initialization order at boot, for batocera systems
+This is a method to fix sinden lightgun initialization order at boot, for batocera systems (tested on V40 & V41).
 
-Current batocera version (40) uses an approach in initializing the guns at boot that could cause them to start in random order.
+Batocera uses an approach in initializing the guns at boot that could cause them to start in random order.
 Additionally, Linux itself can sometimes change device identifiers, leading to further mixing.
 
 This method solves the problem.
